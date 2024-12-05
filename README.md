@@ -47,7 +47,11 @@ print (x)
 ```
 
 ## Output:
+
+### Output 1:
 ![Record 05-01](https://github.com/user-attachments/assets/00f7832f-89b1-4953-9a96-65d56d34ba06)
+
+### Output 2:
 ![Record 05-02](https://github.com/user-attachments/assets/404ba9da-fadd-4a10-99bc-3e7ebaab1a1f)
 
 
